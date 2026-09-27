@@ -1,0 +1,15 @@
+.git
+.venv
+.venv-1
+__pycache__
+*.py[cod]
+.env
+knowledge/vector_store
+day-2-multi-agent-code.zip.git
+.venv
+.venv-1
+__pycache__
+*.py[cod]
+.env
+knowledge/vector_store
+day-2-multi-agent-code.zip

@@ -1,0 +1,9 @@
+requests>=2.32.0,<3.0.0
+mcp>=2.2,<3.0
+chromadb>=1.5.9,<2.0.0
+pypdf>=6.0,<7.0
+openai>=3.19.2,<4.0.0
+tavily-python>=0.8.4,<1.0.0
+langgraph>=1.2.12,<2.0.0
+streamlit>=1.50,<2.0.0
+python-dotenv>=1.0.0
